@@ -14,6 +14,7 @@ public class day1 {
 		System.out.println("array:"+array);
 		array.remove(0);
 		System.out.println("array:"+array);
+		System.out.println("bihao");
 	}
 
 }
